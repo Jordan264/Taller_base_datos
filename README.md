@@ -10,7 +10,7 @@ Link al diccionario de datos en caso de la no visualización del pdf:https://doc
 
 Link al modelo relacional hecho en Diagrams.com en caso de la no visualización del pdf: https://drive.google.com/file/d/1ObIgmOTQw36bdGJGI6hgoYnP4vbxxi1l/view?usp=sharing
 
-Link al documento en caso de la no visualización del pdf:
+Link al documento en caso de la no visualización del pdf: https://docs.google.com/document/d/12HySPbW-JU7rKQVkteHJtFi5Of8J2gf__msobjkOt3s/edit?usp=sharing
 
 
 Link al video de sustentación del taller:
