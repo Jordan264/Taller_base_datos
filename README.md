@@ -1,4 +1,4 @@
-# Taller_base_datos
+# Taller_1_bases_de_datos
 Primer Taller de bases de datos corte 01 
 
 Integrantes:
